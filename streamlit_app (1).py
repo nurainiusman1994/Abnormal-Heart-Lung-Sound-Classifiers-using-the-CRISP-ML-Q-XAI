@@ -63,3 +63,13 @@ st.sidebar.write("**Model Metrics:**")
 st.sidebar.write("- Sensitivity: 100%")
 st.sidebar.write("- Specificity: 100%")
 st.sidebar.write("- ROC-AUC: 1.000")
+
+# Footer with Developer Information
+st.markdown("---")
+st.markdown("""
+<div style='text-align: center; padding: 20px; font-size: 12px; color: #666;'>
+    <p><strong>Developer Name:</strong> Nuraini Usman</p>
+    <p><a href='mailto:message2nuraini@gmail.com'>message2nuraini@gmail.com</a></p>
+    <p>© 2025 All Rights Reserved</p>
+</div>
+""", unsafe_allow_html=True)
