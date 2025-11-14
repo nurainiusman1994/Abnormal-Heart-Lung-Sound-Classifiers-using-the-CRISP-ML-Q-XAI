@@ -8,3 +8,7 @@ pandas
 matplotlib
 seaborn
 scipy
+librosa
+keras
+joblib
+Pillow
